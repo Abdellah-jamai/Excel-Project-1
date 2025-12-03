@@ -2,8 +2,7 @@
 ## 🎯 Project Objectiv
 To examine and illustrate the demographic, geographic, and socioeconomic determinants affecting bicycle purchasing behavior and income distribution, facilitating data-informed decisions for targeted marketing, product positioning, and strategic planning. The dashboard seeks to reveal actionable data by categorizing users based on age, geography, occupation, education, commuting patterns, and gender—connecting consumer behavior with financial capability to enhance outreach and resource distribution.
 
-## 📊 KPI Questions Answered
-These are the strategic questions your dashboard addresses—each tied to a key performance indicator (KPI) relevant to bike purchase Behavior and income analysis:
+## 📊 KPI Questions Answered:
 # 🚴‍♂️ Bike Purchase Behavior
 1. 	Which age group is most likely to purchase a bike?
 2. 	Which region drives the highest number of bike purchases?
