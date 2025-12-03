@@ -12,4 +12,4 @@ These are the strategic questions your dashboard addresses—each tied to a key 
 # 💰 Income Distribution & Drivers
 5. 	What is the average income by gender and bike purchase decision?
 6. 	How does education level impact total income?
-7. 	Which occupations contribute most to total income?<img width="621" height="221" alt="image" src="https://github.com/user-attachments/assets/ef0c2b57-7c35-4f51-a569-7d0231f778c1" />
+7. 	Which occupations contribute most to total income?
