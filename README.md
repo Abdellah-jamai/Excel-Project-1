@@ -41,6 +41,8 @@ To examine and illustrate the demographic, geographic, and socioeconomic determi
 
 [Final Bake Sales Project.xlsx](https://github.com/user-attachments/files/23901777/Final.Bake.Sales.Project.xlsx)
 
+## ✅ Conclusion
+The dashboard indicates that bicycle purchasing behavior is influenced by a combination of demographic and socioeconomic characteristics. Middle-aged purchasers in North America, characterized by brief commutes and elevated educational attainment, represent the most significant donors, whereas professionals and managers propel income leadership. Gender and education disparities highlight underlying differences in purchasing capacity. Overall, the insights give a clear road map for targeted marketing, product positioning, and equity-focused tactics, ensuring that decisions are based on both customer behavior and financial reality.<img width="631" height="146" alt="image" src="https://github.com/user-attachments/assets/400fac14-7af0-4a9e-a7be-f923dcd8bd76" />
 
   
 
