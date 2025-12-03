@@ -12,3 +12,4 @@ To examine and illustrate the demographic, geographic, and socioeconomic determi
 5. 	What is the average income by gender and bike purchase decision?
 6. 	How does education level impact total income?
 7. 	Which occupations contribute most to total income?
+<img width="1311" height="549" alt="Bike sales 1" src="https://github.com/user-attachments/assets/bd314dc8-bbea-489f-81c0-6a80667564bf" />
